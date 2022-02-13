@@ -1,12 +1,12 @@
 # Hi! I'm Ilyane Fox
 
-### I'm a full stack developer, and tech apprentice at VMLY&R
+### I'm a full stack developer, and a tech apprentice at VMLY&R
 <br>
 
 
 
 
-🚀 I'm a recent graduate of LaunchCode
+🚀 I'm a recent graduate of **LaunchCode**
 <br>
 🤓 I'm currently learning Kotlin and Android development
 <br>
