@@ -5,7 +5,7 @@
 ### I'm a full stack developer, and a tech apprentice at VMLY&R
 <br>
 
-🚀 I'm a graduate of **LaunchCode**
+🚀 I'm a 2021 graduate of **LaunchCode**
 <br>
 🤓 I'm currently learning Kotlin and Android development
 <br>
