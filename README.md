@@ -1,5 +1,7 @@
 # Hi! I'm Ilyane Fox
 
+![jumping fox](Fox-anim.gif)
+
 ### I'm a full stack developer, and a tech apprentice at VMLY&R
 <br>
 
@@ -20,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyanefox)](https://github.com/ilyanefox/github-readme-stats)
 
-![jumping fox](Fox-anim.gif)
+
 
 <!--
 **ilyanefox/ilyanefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
