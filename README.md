@@ -7,9 +7,9 @@
 
 🚀 I'm a 2021 graduate of **LaunchCode**
 <br>
-🤓 I'm currently learning Kotlin and Android development
+🤓 I'm currently learning Kotlin and Android development in my apprenticeship
 <br>
-💻 I'm currently working on a full-stack application built in Angular and Spring Boot
+💻 The personal project I'm working on is a full-stack application built in Angular and Spring Boot
 <br>
 👋 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ilyane-fox-297a98218)!
 <br>
