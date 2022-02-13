@@ -12,19 +12,15 @@
 👋 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ilyane-fox-297a98218)!
 <br>
 
-![jumping fox](Fox-anim.gif)
-
-
 ### My Tech Stack:
 - Spring Boot
 - Angular
 - MySQL
 
-<br>
+![jumping fox](Fox-anim.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyanefox)](https://github.com/ilyanefox/github-readme-stats)
 
-<br>
 
 
 <!--
