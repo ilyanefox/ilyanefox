@@ -3,8 +3,9 @@
 ### I'm a full stack developer, and a tech apprentice at VMLY&R
 <br>
 
+![jumping fox](Fox-anim.gif)
 
-
+<br>
 
 🚀 I'm a graduate of **LaunchCode**
 <br>
@@ -12,8 +13,9 @@
 <br>
 💻 I'm currently working on a full-stack application built in Angular and Spring Boot
 <br>
+👋 You can find me on [LinkedIn](https://www.linkedin.com/in/ilyane-fox-297a98218)!
 <br>
-**My Tech Stack:**
+### My Tech Stack:
 - JavaScript
 - Java
 - HTML
@@ -23,9 +25,6 @@
 - Angular
 - MySQL
 <br>
-👋 You can find me on [LinkedIn](https://www.linkedin.com/in/ilyane-fox-297a98218)!
-<br>
-![jumping fox](Fox-anim.gif)
 
 
 <!--
