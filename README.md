@@ -6,18 +6,26 @@
 
 
 
-🚀 I'm a recent graduate of **LaunchCode**
+🚀 I'm a graduate of **LaunchCode**
 <br>
 🤓 I'm currently learning Kotlin and Android development
 <br>
-🔭 I'm currently working on a full-stack application built in Angular and Spring Boot
+💻 I'm currently working on a full-stack application built in Angular and Spring Boot
 <br>
-💻 I code in Javascript, Java, Typescript, CSS, and HTML using Spring Boot and Angular
+<br>
+**My Tech Stack:**
+- JavaScript
+- Java
+- HTML
+- CSS
+- Typescript
+- Spring Boot
+- Angular
+- MySQL
 <br>
 👋 You can find me on [LinkedIn](https://www.linkedin.com/in/ilyane-fox-297a98218)!
-
-![jumping fox](Fox-anim.gif)
 <br>
+![jumping fox](Fox-anim.gif)
 
 
 <!--
