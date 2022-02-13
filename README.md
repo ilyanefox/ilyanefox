@@ -7,7 +7,7 @@
 
 🚀 I'm a 2021 graduate of **LaunchCode**
 <br>
-🤓 I'm currently learning Kotlin and Android development in my apprenticeship
+🤓 I'm currently learning Kotlin and Android development
 <br>
 💻 The personal project I'm working on is a full-stack application built in Angular and Spring Boot
 <br>
