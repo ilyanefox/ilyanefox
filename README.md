@@ -15,6 +15,8 @@
 <br>
 
 ### My Tech Stack:
+- Android Studio
+- Jetpack Compose
 - Spring Boot
 - Angular
 - MySQL
